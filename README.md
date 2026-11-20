@@ -19,6 +19,7 @@ End-to-end modular streaming data engineering project built on Google Cloud Plat
   - [Pub/Sub, Subscriptions & Schema Deep Dive](docs/02-gcp-infrastructure/pubsub-and-schema-deep-dive.md)
   - [Retention, Replay (`seek`), Broker Rejections & DE Boundaries](docs/02-gcp-infrastructure/retention-replay-and-broker-rejections.md)
   - [Pub/Sub, ADC & BigQuery Setup](docs/02-gcp-infrastructure/pubsub-and-bigquery-setup.md)
+  - [Apache Airflow Workflow Guide: `infra_bootstrap_dag.py`](docs/02-gcp-infrastructure/airflow-infra-bootstrap-dag-guide.md)
 - **03 - Streaming Concepts** *(Coming in Stage 02)*
 - **04 - Staff DE Interview Prep**
   - [Lab vs. Enterprise Production Gap Analysis](docs/04-staff-de-interview-prep/lab-vs-enterprise-production.md)
